@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bxwitb.koi888.cfd/sitemap.xml
